@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "193173287352",
+    "project_id": "bloc-demo-60cce",
+    "storage_bucket": "bloc-demo-60cce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:193173287352:android:41ae4608d98ac6e7a05f4d",
+        "android_client_info": {
+          "package_name": "asmita.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkVNM7jdQgmPt_G9qIFVn6T4Vqs8xf_M4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
